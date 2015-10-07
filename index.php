@@ -10,16 +10,26 @@
         <link href="assets/css/flat-ui-pro.min.css" rel="stylesheet">
         <style type="text/css">
         .border{
-            border-radius: 0px !important;
+        border-radius: 0px !important;
+        }
+        .bulat{
+        border-radius: 100% !important;
+        height: 110px;
+        }
+        .icon{
+        height: 25px;
+        }
+        .fontb{
+        font-size: 15px;
         }
         .gambar{
         padding: 0px 110px !important;
-        margin-bottom: 20px !important;
-        margin-top: 20px;
+        margin-bottom: 10px !important;
+        margin-top: 10px;
         }
         .user-pass{
-        margin-bottom: 20px !important;
-        margin-top: 20px;
+        margin-bottom: 10px !important;
+        margin-top: 10px;
         }
         .img{
         margin-bottom: -25px !important;
@@ -34,8 +44,12 @@
         background-color: #002635 !important;
         }
         .background{
-        background-color: /*#149279*/#002635 !important;
+        background-color: /*#149279*/#faca26 !important;
         padding: 10px 100px;
+        height: 150px;
+        background-repeat: no-repeat;
+        background-position: top right;
+        /*background-size: cover;*/
         /*background-image: images/bg-blue.png !important;*/
         }
         .background1{
@@ -48,8 +62,10 @@
         /*padding: 10px 100px;*/
         }
         .font{
-        font-size: 50px;
+        font-size: 60px;
         color: white;
+        top: 100px !important;
+        bottom: 100px !important;
         }
         .font2{
         font-size: 15px;
@@ -58,6 +74,10 @@
         .font1{
         font-size: 15px;
         color: white;
+        }
+        .background3{
+            background-image: url(images/assets/triangle.png);
+
         }
         </style>
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -79,56 +99,104 @@
                 <img class="gambar" height="50" src="images/logo-header.png" alt="Image">
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <div class="collapse navbar-collapse navbar-ex1-collapse border">
                 <form class="navbar-form navbar-right" role="search">
                     <div class="form-group">
-                        <input type="text" class="form-control user-pass" placeholder="username">
+                        <input type="text" class="form-control user-pass border" placeholder="username">
                     </div>
                     <div class="form-group">
-                        <input type="text" class="form-control user-pass" placeholder="password">
+                        <input type="text" class="form-control user-pass border" placeholder="password">
                     </div>
-                    <button class="btn btn-danger">Submit</button>
+                    <button class="btn btn-warning border">Submit</button>
                 </form>
             </div>
         </nav>
         <img src="images/bener.jpg" class="img-responsive" alt="Image">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <center>
+            <img src="images/assets/support.png" class="img-responsive user-pass" alt="Image">
+            </center>
+            <hr>
             <legend></legend>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                <img src="images/ds.png" class="img-responsive" alt="Image">
-            </div>
-            <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
-                <a href="#">Muhammad Solihin</a><br>
-                Jabatan<br>
-                Email<br>
-            </div>
-            <center>
-            <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                Sosial Media : <br><a href="#fakelink" class="fui-facebook"></a> &nbsp &nbsp<a href="#fakelink" class="fui-twitter"></a>&nbsp &nbsp<a href="#fakelink" class="fui-instagram"></a>  &nbsp <a href="#fakelink" class="fui-skype"></a>
-            </div>
-            </center>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <legend></legend><hr>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner">
+
             <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                <img src="images/ds.png" class="img-responsive" alt="Image">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <img src="images/bg.png" class="img-responsive bulat" alt="Image">
+                    </div>
+                </div>
             </div>
-            <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
-                <a href="#">Muhammad Solihin</a><br>
-                Jabatan<br>
-                Email<br>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 fontb">
+                <a href="#">ABIMANYU</a><br>
+                CEO<br>
+                abimanyu@indobit.com<br>
+                <img src="images/assets/linkedin.png" class="icon" alt="Image"> &nbsp
+                <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
+                <img src="images/assets/fb.png" class="icon" alt="Image">
             </div>
-            <center>
-            <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                Sosial Media : <br><a href="#fakelink" class="fui-facebook"></a>&nbsp &nbsp<a href="#fakelink" class="fui-twitter"></a>&nbsp &nbsp<a href="#fakelink" class="fui-instagram"></a>  &nbsp <a href="#fakelink" class="fui-skype"></a>
-                <legend></legend><br>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <img src="images/bg.png" class="img-responsive bulat" alt="Image">
+                    </div>
+                </div>
             </div>
-            </center>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 fontb">
+                <a href="#">ABIMANYU</a><br>
+                CEO<br>
+                abimanyu@indobit.com<br>
+                <img src="images/assets/linkedin.png" class="icon" alt="Image"> &nbsp
+                <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
+                <img src="images/assets/fb.png" class="icon" alt="Image">
+            </div>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background">
-            <a class="font"><p align="right">
-                I n d o b i t &nbsp  T e c h n o l o g y <img src="images/bg-blue.png" class="img" alt="Image">
-            </a></p>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner">
+
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <img src="images/bg.png" class="img-responsive bulat" alt="Image">
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 fontb">
+                <a href="#">ABIMANYU</a><br>
+                CEO<br>
+                abimanyu@indobit.com<br>
+                <img src="images/assets/linkedin.png" class="icon" alt="Image"> &nbsp
+                <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
+                <img src="images/assets/fb.png" class="icon" alt="Image">
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
+                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <img src="images/bg.png" class="img-responsive bulat" alt="Image">
+                    </div>
+                </div>
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 fontb">
+                <a href="#">ABIMANYU</a><br>
+                CEO<br>
+                abimanyu@indobit.com<br>
+                <img src="images/assets/linkedin.png" class="icon" alt="Image"> &nbsp
+                <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
+                <img src="images/assets/fb.png" class="icon" alt="Image">
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background background3">
+            <center><a class="font">
+             O u r  &nbsp P a r t n e r
+             </a></center>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner">
             <legend></legend>
