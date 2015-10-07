@@ -57,8 +57,8 @@
         padding: 10px 100px;
         }
         .background2{
-        background: #34495E !important;
-        color: white;
+        background: #f2f2f2 !important;
+        /*color: white;*/
         /*padding: 10px 100px;*/
         }
         .font{
@@ -69,15 +69,40 @@
         }
         .font2{
         font-size: 15px;
-        color: white;
+        color: #282828;
         }
         .font1{
         font-size: 15px;
-        color: white;
+        color: black;
+        }
+        .font3{
+        color: #faca26;
         }
         .background3{
-            background-image: url(images/assets/triangle.png);
-
+        background-image: url(images/assets/triangle.png);
+        }
+        .right{
+        padding: 10px 100px;
+        }
+        .tinggi{
+        height: 60px;
+        margin-left: 30px;
+        }
+        .top-bottom{
+        margin-top: 40px;
+        padding-left: 80px;
+        margin-bottom: 20px;
+        }
+        .top-bottom2{
+        padding-left: 80px;
+        margin-bottom: 20px;
+        }
+        .padding{
+        padding-left: 80px;
+        margin-bottom: 20px;
+        }
+        .background4{
+        background-color: #e7dfdf;
         }
         </style>
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
@@ -119,18 +144,11 @@
             <hr>
             <legend></legend>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner">
-
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                    </div>
-                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                        <img src="images/bg.png" class="img-responsive bulat" alt="Image">
-                    </div>
-                </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner right">
+            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+                <img src="images/bg.png" class="img-responsive bulat" alt="Image">
             </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 fontb">
+            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 fontb">
                 <a href="#">ABIMANYU</a><br>
                 CEO<br>
                 abimanyu@indobit.com<br>
@@ -138,16 +156,21 @@
                 <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
                 <img src="images/assets/fb.png" class="icon" alt="Image">
             </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                    </div>
-                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                        <img src="images/bg.png" class="img-responsive bulat" alt="Image">
-                    </div>
-                </div>
+            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+                <img src="images/bg.png" class="img-responsive bulat" alt="Image">
             </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 fontb">
+            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 fontb">
+                <a href="#">ABIMANYU</a><br>
+                CEO<br>
+                abimanyu@indobit.com<br>
+                <img src="images/assets/linkedin.png" class="icon" alt="Image"> &nbsp
+                <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
+                <img src="images/assets/fb.png" class="icon" alt="Image">
+            </div>
+            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+                <img src="images/bg.png" class="img-responsive bulat" alt="Image">
+            </div>
+            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 fontb">
                 <a href="#">ABIMANYU</a><br>
                 CEO<br>
                 abimanyu@indobit.com<br>
@@ -156,18 +179,11 @@
                 <img src="images/assets/fb.png" class="icon" alt="Image">
             </div>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner">
-
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                    </div>
-                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                        <img src="images/bg.png" class="img-responsive bulat" alt="Image">
-                    </div>
-                </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner right">
+            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+                <img src="images/bg.png" class="img-responsive bulat" alt="Image">
             </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 fontb">
+            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 fontb">
                 <a href="#">ABIMANYU</a><br>
                 CEO<br>
                 abimanyu@indobit.com<br>
@@ -175,16 +191,21 @@
                 <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
                 <img src="images/assets/fb.png" class="icon" alt="Image">
             </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                    </div>
-                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
-                        <img src="images/bg.png" class="img-responsive bulat" alt="Image">
-                    </div>
-                </div>
+            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+                <img src="images/bg.png" class="img-responsive bulat" alt="Image">
             </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 fontb">
+            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 fontb">
+                <a href="#">ABIMANYU</a><br>
+                CEO<br>
+                abimanyu@indobit.com<br>
+                <img src="images/assets/linkedin.png" class="icon" alt="Image"> &nbsp
+                <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
+                <img src="images/assets/fb.png" class="icon" alt="Image">
+            </div>
+            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+                <img src="images/bg.png" class="img-responsive bulat" alt="Image">
+            </div>
+            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 fontb">
                 <a href="#">ABIMANYU</a><br>
                 CEO<br>
                 abimanyu@indobit.com<br>
@@ -195,40 +216,78 @@
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background background3">
             <center><div class="font">
-             O u r  &nbsp P a r t n e r
-             </div></center>
+                O u r  &nbsp P a r t n e r
+            </div></center>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner">
-            <legend></legend>
-            <center>
-            <img src="images/ds.png" class="" alt="Image"> &nbsp &nbsp &nbsp<img src="images/ds.png" class="" alt="Image">
-            <!-- <legend></legend> -->
+            <img src="images/assets/academy.png" class="tinggi" alt="Image">
+            <img src="images/assets/exchanger-id.png" class="tinggi" alt="Image">
+            <img src="images/assets/fti.png" class="tinggi" alt="Image">
+            <img src="images/assets/ifon.jpg" class="tinggi" alt="Image">
+            <img src="images/assets/jfxjournal-logo.png" class="tinggi" alt="Image">
         </div>
-        </center>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background font2">
-        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 partner">
-            INDOBIT TECHNOLOGY <br>
-            Kami adalah sekumpulan anak muda gagah berani tak takut mati walau badai menghampiri
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font3">
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
+                Head Office
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
+                Partner
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
+                Media
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
+                Service
+            </div>
         </div>
-        <!-- <legend></legend><br> -->
-        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 partner">
-            Hubungi Kami <br>
-            Jl.M.H.Tamrin <br>
-            jakarta
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font2">
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
+                Menara BCA, Grand Indonesia Lt. 50 <br>
+                JL. MH Thamrin No. 1 Central Jakarta, 10310
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
+                Vhost.Id <br>
+                JFX Journal<br>
+                Indobit Foundationb<br>
+                Forum Trader Indonesiab<br>
+                Exchanger.I<br>
+                Indobit Academy
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
+                JFX JOURNAL<br>
+                FORUM TRADER INDONESIA
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
+                VPS Hosting<br>
+                Web Developement<br>
+                Web Hosting
+            </div>
         </div>
-        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 partner">
-            Partner <br>
-            Jl.M.H.Tamrin <br>
-            jakarta
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font3">
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 top-bottom2">
+                Contact Us
+            </div>
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 top-bottom2">
+                Follow Us
+            </div>
         </div>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background1 font1">
-        <center>Copyright©2015 Indobit Technologies</center>
-    </div>
-    <!-- jQuery -->
-    <script src="assets/js/flat-ui-pro.min.js"></script>
-    <script src="assets/js/vendor/jquery.min.js"></script>
-    <!-- Bootstrap JavaScript -->
-</body>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font2">
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 padding">
+                Email : email@indobit.com<br>
+                Telepon : +62 21 2358 4400 atau +62 21 2358 4401
+            </div>
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 top-bottom2">
+                <img src="images/assets/linkedin.png" class="icon" alt="Image"> &nbsp
+                <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
+                <img src="images/assets/fb.png" class="icon" alt="Image">
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background4 font1">
+            <center>Copyright©2015 Indobit Technologies</center>
+        </div>
+        <!-- jQuery -->
+        <script src="assets/js/flat-ui-pro.min.js"></script>
+        <script src="assets/js/vendor/jquery.min.js"></script>
+        <!-- Bootstrap JavaScript -->
+    </body>
 </html>
