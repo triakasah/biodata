@@ -41,7 +41,7 @@
         }
         .bener{
         margin-bottom: 0px !important;
-        background-color: #002635 !important;
+        background-color: #282828 !important;
         }
         .background{
         background-color: /*#149279*/#faca26 !important;
@@ -64,8 +64,8 @@
         .font{
         font-size: 60px;
         color: white;
-        top: 100px !important;
-        bottom: 100px !important;
+        /*top: -100px !important;*/
+        margin-top: 15px;
         }
         .font2{
         font-size: 15px;
@@ -194,9 +194,9 @@
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background background3">
-            <center><a class="font">
+            <center><div class="font">
              O u r  &nbsp P a r t n e r
-             </a></center>
+             </div></center>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner">
             <legend></legend>
