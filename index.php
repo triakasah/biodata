@@ -18,6 +18,10 @@
         }
         .icon{
         height: 25px;
+        background-repeat: no-repeat;
+        background-size: 25px;
+        padding-right: 30px;
+        padding-bottom: 10px;
         }
         .fontb{
         font-size: 15px;
@@ -104,6 +108,36 @@
         .background4{
         background-color: #e7dfdf;
         }
+        .an{
+        background: #000;
+        }
+        .an:hover{
+        background: #ddd;
+        }
+        .linkedin{
+        background-image: url('images/assets/linkedin.png');
+        height: 25px;
+        }
+        .linkedin:hover{
+        background-image: url('images/assets/linkedin hover.png');
+        height: 25px;
+        }
+        .skype{
+        background-image: url('images/assets/skype.png');
+        height: 25px;
+        }
+        .skype:hover{
+        background-image: url('images/assets/skype hover.png');
+        height: 25px;
+        }
+        .fb{
+        background-image: url('images/assets/fb.png');
+        height: 25px;
+        }
+        .fb:hover{
+        background-image: url('images/assets/fb_hover.png');
+        height: 25px;
+        }
         </style>
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:localhost// -->
@@ -152,9 +186,9 @@
                 <a href="#">ABIMANYU</a><br>
                 CEO<br>
                 abimanyu@indobit.com<br>
-                <img src="images/assets/linkedin.png" class="icon" alt="Image"> &nbsp
-                <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
-                <img src="images/assets/fb.png" class="icon" alt="Image">
+                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
+                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
+                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
             </div>
             <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                 <img src="images/bg.png" class="img-responsive bulat" alt="Image">
@@ -163,9 +197,9 @@
                 <a href="#">ABIMANYU</a><br>
                 CEO<br>
                 abimanyu@indobit.com<br>
-                <img src="images/assets/linkedin.png" class="icon" alt="Image"> &nbsp
-                <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
-                <img src="images/assets/fb.png" class="icon" alt="Image">
+                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
+                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
+                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
             </div>
             <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                 <img src="images/bg.png" class="img-responsive bulat" alt="Image">
@@ -174,9 +208,9 @@
                 <a href="#">ABIMANYU</a><br>
                 CEO<br>
                 abimanyu@indobit.com<br>
-                <img src="images/assets/linkedin.png" class="icon" alt="Image"> &nbsp
-                <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
-                <img src="images/assets/fb.png" class="icon" alt="Image">
+                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
+                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
+                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner right">
@@ -187,9 +221,9 @@
                 <a href="#">ABIMANYU</a><br>
                 CEO<br>
                 abimanyu@indobit.com<br>
-                <img src="images/assets/linkedin.png" class="icon" alt="Image"> &nbsp
-                <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
-                <img src="images/assets/fb.png" class="icon" alt="Image">
+                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
+                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
+                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
             </div>
             <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                 <img src="images/bg.png" class="img-responsive bulat" alt="Image">
@@ -198,9 +232,9 @@
                 <a href="#">ABIMANYU</a><br>
                 CEO<br>
                 abimanyu@indobit.com<br>
-                <img src="images/assets/linkedin.png" class="icon" alt="Image"> &nbsp
-                <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
-                <img src="images/assets/fb.png" class="icon" alt="Image">
+                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
+                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
+                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
             </div>
             <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
                 <img src="images/bg.png" class="img-responsive bulat" alt="Image">
@@ -209,9 +243,9 @@
                 <a href="#">ABIMANYU</a><br>
                 CEO<br>
                 abimanyu@indobit.com<br>
-                <img src="images/assets/linkedin.png" class="icon" alt="Image"> &nbsp
-                <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
-                <img src="images/assets/fb.png" class="icon" alt="Image">
+                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
+                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
+                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background background3">
@@ -277,9 +311,9 @@
                 Telepon : +62 21 2358 4400 atau +62 21 2358 4401
             </div>
             <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 top-bottom2">
-                <img src="images/assets/linkedin.png" class="icon" alt="Image"> &nbsp
-                <img src="images/assets/skype.png" class="icon" alt="Image"> &nbsp
-                <img src="images/assets/fb.png" class="icon" alt="Image">
+                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
+                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
+                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background4 font1">
@@ -288,6 +322,12 @@
         <!-- jQuery -->
         <script src="assets/js/flat-ui-pro.min.js"></script>
         <script src="assets/js/vendor/jquery.min.js"></script>
+        <script src="http://localhost/cdn/bootstrap/3.2.0/js/bootstrap.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+            $(document).ready(function() {
+                $('[data-toggle="tooltip"]').tooltip();
+            });
+        </script>
         <!-- Bootstrap JavaScript -->
     </body>
 </html>
