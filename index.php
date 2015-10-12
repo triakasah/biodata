@@ -28,7 +28,7 @@
                 <img class="gambar img-responsive" height="50" src="images/logo-header.png" alt="Image">
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-ex1-collapse border">
+            <!-- <div class="collapse navbar-collapse navbar-ex1-collapse border">
                 <form class="navbar-form navbar-right" role="search">
                     <div class="form-group">
                         <input type="text" class="form-control user-pass border" placeholder="username">
@@ -38,7 +38,7 @@
                     </div>
                     <button class="btn btn-warning border">Submit</button>
                 </form>
-            </div>
+            </div> -->
         </nav>
         <img src="images/bener.jpg" class=" widthb" alt="Image">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
