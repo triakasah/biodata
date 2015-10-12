@@ -1,0 +1,165 @@
+.an{
+        background: #000;
+        }
+.an:hover{
+        background: #ddd;
+        }
+.background{
+        background-color: /*#149279*/#faca26 !important;
+        padding: 10px 100px;
+        height: 150px;
+        background-repeat: no-repeat;
+        background-position: top right;
+        /*background-size: cover;*/
+        /*background-image: ../images/bg-blue.png !important;*/
+        }
+.background1{
+        background: #000000/*#2e3539*/ !important;
+        padding: 10px 100px;
+        }
+.background2{
+        background: #f2f2f2 !important;
+        /*color: white;*/
+        /*padding: 10px 100px;*/
+        }
+.background3{
+        background-image: url(../images/assets/triangle.png);
+        }
+.background4{
+         /*background-image: url(../images/background2.png);*/
+         background-image: url(../images/bg-profil.png);
+         /*background-color: #bdc3c7;*/
+         padding-bottom: 30px;
+         padding-top: 30px;
+         background-size: cover;
+         background-position: 100px 90px;
+
+        }
+.background5{
+        background-color: #dcd7d7;
+}
+.bener{
+        margin-bottom: 0px !important;
+        background-color: #282828 !important;
+        }
+.benerg{
+        background-image: url(../images/bener.jpg);
+        background-repeat: no-repeat;
+}
+
+.border{
+        border-radius: 0px !important;
+        }
+.border-dashed{
+        border-style: dashed !important;
+}
+.bulat{
+        border-radius: 100% !important;
+        height: 110px;
+        }
+.fb{
+        background-image: url('../images/assets/fb.png');
+        height: 25px;
+        }
+.fb:hover{
+        background-image: url('../images/assets/fb_hover.png');
+        height: 25px;
+        }
+.font{
+        font-size: 60px;
+        color: white;
+        /*top: -100px !important;*/
+        margin-top: 15px;
+        }
+.font1{
+        font-size: 15px;
+        color: black;
+        }
+.font2{
+        font-size: 15px;
+        color: #282828;
+        }
+.font3{
+        color: #faca26;
+        }
+.fontb{
+        font-size: 15px;
+        }
+.gambar{
+        padding: 0px 110px !important;
+        margin-bottom: 10px !important;
+        margin-top: 10px;
+        }
+.height{
+        height: 300px;
+        padding: 5px;
+        border: 3px dashed #bcbcbc;
+}
+.icon{
+        height: 25px;
+        background-repeat: no-repeat;
+        background-size: 25px;
+        padding-right: 30px;
+        padding-bottom: 10px;
+        }
+.img{
+        margin-bottom: -25px !important;
+        margin-top: -10px;
+        }
+.linkedin{
+        background-image: url('../images/assets/linkedin.png');
+        height: 25px;
+        }
+.linkedin:hover{
+        background-image: url('../images/assets/linkedin hover.png');
+        height: 25px;
+        }
+.padding{
+        padding-left: 80px;
+        margin-bottom: 20px;
+        }
+.partner{
+        margin-bottom: 60px !important;
+        margin-top: 40px;
+        }
+.right{
+        padding: 10px 100px;
+        }
+.shadow{
+        box-shadow: 0px 0px 20px 5px rgba(0, 0, 0, 0.702);
+        border-style: dashed;
+}
+.shadow1{
+        box-shadow: 0px 25px 15px -18px rgba(0, 0, 0, 0.702);
+}
+.samping{
+    padding-left: 50px;
+}
+.skype{
+        background-image: url('../images/assets/skype.png');
+        height: 25px;
+        }
+.skype:hover{
+        background-image: url('../images/assets/skype hover.png');
+        height: 25px;
+        }
+.tinggi{
+        height: 60px;
+        margin-left: 30px;
+        }
+.top-bottom{
+        margin-top: 40px;
+        padding-left: 80px;
+        margin-bottom: 20px;
+        }
+.top-bottom2{
+        padding-left: 80px;
+        margin-bottom: 20px;
+        }
+.user-pass{
+        margin-bottom: 10px !important;
+        margin-top: 10px;
+        }
+.widthb{
+        width: 100%;
+}

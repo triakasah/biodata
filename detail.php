@@ -8,58 +8,7 @@
         <!-- Bootstrap CSS -->
         <link href="assets/css/vendor/bootstrap.min.css" rel="stylesheet">
         <link href="assets/css/flat-ui-pro.min.css" rel="stylesheet">
-        <style type="text/css">
-        .gambar{
-        padding: 0px 110px !important;
-        margin-bottom: 20px !important;
-        margin-top: 20px;
-        }
-        .user-pass{
-        margin-bottom: 20px !important;
-        margin-top: 20px;
-        }
-        .img{
-        margin-bottom: -25px !important;
-        margin-top: -10px;
-        }
-        .partner{
-        margin-bottom: 60px !important;
-        margin-top: 40px;
-        }
-        .bener{
-        margin-bottom: 0px !important;
-        background-color: #002635 !important;
-        }
-        .background{
-        background-color: /*#149279*/#002635 !important;
-        padding: 10px 100px;
-        /*background-image: images/bg-blue.png !important;*/
-        }
-        .background1{
-        background: #2e3539 !important;
-        padding: 10px 100px;
-        }
-        .background2{
-        background: #34495E !important;
-        color: white;
-        /*padding: 10px 100px;*/
-        }
-        .font{
-        font-size: 50px;
-        color: white;
-        }
-        .font2{
-        font-size: 15px;
-        color: white;
-        }
-        .img-circle{
-            border-radius: 50%;
-            width: 130px;
-        }
-        .border{
-            border-radius: 0px !important;
-        }
-        </style>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:localhost// -->
         <!--[if lt IE 9]>
@@ -76,92 +25,184 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 </button>
-                <img class="gambar" height="50" src="images/logo-header.png" alt="Image">
+                <img class="gambar img-responsive" height="50" src="images/logo-header.png" alt="Image">
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse navbar-ex1-collapse">
+            <div class="collapse navbar-collapse navbar-ex1-collapse border">
                 <form class="navbar-form navbar-right" role="search">
                     <div class="form-group">
-                        <input type="text" class="form-control user-pass" placeholder="username">
+                        <input type="text" class="form-control user-pass border" placeholder="username">
                     </div>
                     <div class="form-group">
-                        <input type="text" class="form-control user-pass" placeholder="password">
+                        <input type="text" class="form-control user-pass border" placeholder="password">
                     </div>
-                    <button class="btn btn-danger">Submit</button>
+                    <button class="btn btn-warning border">Submit</button>
                 </form>
             </div>
         </nav>
         <!-- <img src="images/bener.jpg" class="img-responsive" alt="Image"> -->
-        <div class="background2 bener"><center><img src="images/bg.png" class="user-pass bener img-circle" alt="Image"></center></div>
+            <div class="background4">
+                <center>
+                <img src="images/bg.png" class="height img-circle img-responsive" alt="Image">
+                </center>
+            </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+            <center>
+            <img src="images/assets/profile.png" class="img-responsive user-pass" alt="Image">
+            </center>
+            <hr>
             <legend></legend>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                <img src="images/ds.png" class="img-responsive" alt="Image">
-            </div>
-            <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
-                <a href="#">Muhammad Solihin</a><br>
-                Jabatan<br>
-                Email<br>
-            </div>
-            <center>
-            <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                Sosial Media : <br><a href="#fakelink" class="fui-facebook"></a> &nbsp &nbsp<a href="#fakelink" class="fui-twitter"></a>&nbsp &nbsp<a href="#fakelink" class="fui-instagram"></a>  &nbsp <a href="#fakelink" class="fui-skype"></a>
-            </div>
-            </center>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-            <legend></legend><hr>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3">
-                <img src="images/ds.png" class="img-responsive" alt="Image">
-            </div>
-            <div class="col-xs-5 col-sm-5 col-md-5 col-lg-5">
-                <a href="#">Muhammad Solihin</a><br>
-                Jabatan<br>
-                Email<br>
-            </div>
-            <center>
-            <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4">
-                Sosial Media : <br><a href="#fakelink" class="fui-facebook"></a>&nbsp &nbsp<a href="#fakelink" class="fui-twitter"></a>&nbsp &nbsp<a href="#fakelink" class="fui-instagram"></a>  &nbsp <a href="#fakelink" class="fui-skype"></a>
-                <legend></legend><br>
-            </div>
-            </center>
+        <div class="container">
+            <table class="table table-hover">
+                <thead>
+                    <tr>
+                        <th>BIODATA</th>
+                    </tr>
+                </thead>
+                <tbody>
+                    <tr>
+                        <td>Nama Lengkap</td>
+                        <td>Muhammad Solihin</td>
+                    </tr>
+                    <tr>
+                        <td>Nama Panggilan</td>
+                        <td>Salihin</td>
+                    </tr>
+                    <tr>
+                        <td>Alamat Sekarang</td>
+                        <td>Jl.Primer dusun karya mulya Jeruju Besar no.26 Kec.Sungai Kakap</td>
+                    </tr>
+                    <tr>
+                        <td>kota</td>
+                        <td>Pontianak</td>
+                    </tr>
+                    <tr>
+                        <td>Kode Pos</td>
+                        <td>78123</td>
+                    </tr>
+                    <tr>
+                        <td>Alamat Asal</td>
+                        <td>Jl.Primer dusun karya mulya Jeruju Besar no.26 Kec.Sungai Kakap</td>
+                    </tr>
+                    <tr>
+                        <td>Agama</td>
+                        <td>Islam</td>
+                    </tr>
+                    <tr>
+                        <td colspan="2" rowspan="" headers=""><b>Orang Tua</b></td>
+                    </tr>
+                    <tr>
+                        <td><li>Ayah</li></td>
+                        <td>Ayah</td>
+                    </tr>
+                    <tr>
+                        <td><li>Ibu</li></td>
+                        <td>Ibu</td>
+                    </tr>
+                    <tr>
+                        <td>No.rekening</td>
+                        <td>6920206377</td>
+                    </tr>
+                    <tr>
+                        <td>Email Indobit</td>
+                        <td>salihin@indobit.com</td>
+                    </tr>
+                    <tr>
+                        <td>Email Sekunder</td>
+                        <td>salihin@vhost.id</td>
+                    </tr>
+                    <tr>
+                        <td>Media Sosial</td>
+                        <td>
+                            <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
+                            <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
+                            <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
+                        </td>
+                    </tr>
+                </tbody>
+            </table>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background">
-            <a class="font"><p align="right">
-                I n d o b i t &nbsp  T e c h n o l o g y <img src="images/bg-blue.png" class="img" alt="Image">
-            </a></p>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background background3">
+            <center><div class="font">
+                O u r  &nbsp P a r t n e r
+            </div></center>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner">
-            <legend></legend>
-            <center>
-            <img src="images/ds.png" class="" alt="Image"> &nbsp &nbsp &nbsp<img src="images/ds.png" class="" alt="Image">
-            <!-- <legend></legend> -->
+            <img src="images/assets/academy.png" class="tinggi" alt="Image">
+            <img src="images/assets/exchanger-id.png" class="tinggi" alt="Image">
+            <img src="images/assets/fti.png" class="tinggi" alt="Image">
+            <img src="images/assets/ifon.jpg" class="tinggi" alt="Image">
+            <img src="images/assets/jfxjournal-logo.png" class="tinggi" alt="Image">
         </div>
-        </center>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background font2">
-        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 partner">
-            INDOBIT TECHNOLOGY <br>
-            Kami adalah sekumpulan anak muda gagah berani tak takut mati walau badai menghampiri
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font3">
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
+                Head Office
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
+                Partner
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
+                Media
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
+                Service
+            </div>
         </div>
-        <!-- <legend></legend><br> -->
-        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 partner">
-            Hubungi Kami <br>
-            Jl.M.H.Tamrin <br>
-            jakarta
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font2">
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
+                Menara BCA, Grand Indonesia Lt. 50 <br>
+                JL. MH Thamrin No. 1 Central Jakarta, 10310
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
+                Vhost.Id <br>
+                JFX Journal<br>
+                Indobit Foundationb<br>
+                Forum Trader Indonesiab<br>
+                Exchanger.I<br>
+                Indobit Academy
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
+                JFX JOURNAL<br>
+                FORUM TRADER INDONESIA
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
+                VPS Hosting<br>
+                Web Developement<br>
+                Web Hosting
+            </div>
         </div>
-        <div class="col-xs-4 col-sm-4 col-md-4 col-lg-4 partner">
-            Partner <br>
-            Jl.M.H.Tamrin <br>
-            jakarta
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font3">
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 top-bottom2">
+                Contact Us
+            </div>
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 top-bottom2">
+                Follow Us
+            </div>
         </div>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background1 font2">
-        <center>Copyright©2015 Indobit Technologies</center>
-    </div>
-    <!-- jQuery -->
-    <script src="assets/js/flat-ui-pro.min.js"></script>
-    <script src="assets/js/vendor/jquery.min.js"></script>
-    <!-- Bootstrap JavaScript -->
-</body>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font2">
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 padding">
+                Email : email@indobit.com<br>
+                Telepon : +62 21 2358 4400 atau +62 21 2358 4401
+            </div>
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 top-bottom2">
+                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
+                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
+                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
+            </div>
+        </div>
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background5 font1">
+            <center>Copyright©2015 Indobit Technologies</center>
+        </div>
+        <!-- jQuery -->
+        <script src="assets/js/flat-ui-pro.min.js"></script>
+        <script src="assets/js/vendor/jquery.min.js"></script>
+        <script src="http://localhost/cdn/bootstrap/3.2.0/js/bootstrap.min.js" type="text/javascript"></script>
+        <script type="text/javascript">
+        $(document).ready(function() {
+        $('[data-toggle="tooltip"]').tooltip();
+        });
+        </script>
+        <!-- Bootstrap JavaScript -->
+    </body>
 </html>

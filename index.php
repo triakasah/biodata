@@ -8,137 +8,7 @@
         <!-- Bootstrap CSS -->
         <link href="assets/css/vendor/bootstrap.min.css" rel="stylesheet">
         <link href="assets/css/flat-ui-pro.min.css" rel="stylesheet">
-        <style type="text/css">
-        .border{
-        border-radius: 0px !important;
-        }
-        .bulat{
-        border-radius: 100% !important;
-        height: 110px;
-        }
-        .icon{
-        height: 25px;
-        background-repeat: no-repeat;
-        background-size: 25px;
-        padding-right: 30px;
-        padding-bottom: 10px;
-        }
-        .fontb{
-        font-size: 15px;
-        }
-        .gambar{
-        padding: 0px 110px !important;
-        margin-bottom: 10px !important;
-        margin-top: 10px;
-        }
-        .user-pass{
-        margin-bottom: 10px !important;
-        margin-top: 10px;
-        }
-        .img{
-        margin-bottom: -25px !important;
-        margin-top: -10px;
-        }
-        .partner{
-        margin-bottom: 60px !important;
-        margin-top: 40px;
-        }
-        .bener{
-        margin-bottom: 0px !important;
-        background-color: #282828 !important;
-        }
-        .background{
-        background-color: /*#149279*/#faca26 !important;
-        padding: 10px 100px;
-        height: 150px;
-        background-repeat: no-repeat;
-        background-position: top right;
-        /*background-size: cover;*/
-        /*background-image: images/bg-blue.png !important;*/
-        }
-        .background1{
-        background: #000000/*#2e3539*/ !important;
-        padding: 10px 100px;
-        }
-        .background2{
-        background: #f2f2f2 !important;
-        /*color: white;*/
-        /*padding: 10px 100px;*/
-        }
-        .font{
-        font-size: 60px;
-        color: white;
-        /*top: -100px !important;*/
-        margin-top: 15px;
-        }
-        .font2{
-        font-size: 15px;
-        color: #282828;
-        }
-        .font1{
-        font-size: 15px;
-        color: black;
-        }
-        .font3{
-        color: #faca26;
-        }
-        .background3{
-        background-image: url(images/assets/triangle.png);
-        }
-        .right{
-        padding: 10px 100px;
-        }
-        .tinggi{
-        height: 60px;
-        margin-left: 30px;
-        }
-        .top-bottom{
-        margin-top: 40px;
-        padding-left: 80px;
-        margin-bottom: 20px;
-        }
-        .top-bottom2{
-        padding-left: 80px;
-        margin-bottom: 20px;
-        }
-        .padding{
-        padding-left: 80px;
-        margin-bottom: 20px;
-        }
-        .background4{
-        background-color: #e7dfdf;
-        }
-        .an{
-        background: #000;
-        }
-        .an:hover{
-        background: #ddd;
-        }
-        .linkedin{
-        background-image: url('images/assets/linkedin.png');
-        height: 25px;
-        }
-        .linkedin:hover{
-        background-image: url('images/assets/linkedin hover.png');
-        height: 25px;
-        }
-        .skype{
-        background-image: url('images/assets/skype.png');
-        height: 25px;
-        }
-        .skype:hover{
-        background-image: url('images/assets/skype hover.png');
-        height: 25px;
-        }
-        .fb{
-        background-image: url('images/assets/fb.png');
-        height: 25px;
-        }
-        .fb:hover{
-        background-image: url('images/assets/fb_hover.png');
-        height: 25px;
-        }
-        </style>
+        <link rel="stylesheet" type="text/css" href="css/style.css">
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:localhost// -->
         <!--[if lt IE 9]>
@@ -155,7 +25,7 @@
                 <span class="icon-bar"></span>
                 <span class="icon-bar"></span>
                 </button>
-                <img class="gambar" height="50" src="images/logo-header.png" alt="Image">
+                <img class="gambar img-responsive" height="50" src="images/logo-header.png" alt="Image">
             </div>
             <!-- Collect the nav links, forms, and other content for toggling -->
             <div class="collapse navbar-collapse navbar-ex1-collapse border">
@@ -170,7 +40,7 @@
                 </form>
             </div>
         </nav>
-        <img src="images/bener.jpg" class="img-responsive" alt="Image">
+        <img src="images/bener.jpg" class="img-responsive widthb" alt="Image">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             <center>
             <img src="images/assets/support.png" class="img-responsive user-pass" alt="Image">
@@ -178,11 +48,27 @@
             <hr>
             <legend></legend>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner right">
-            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-                <img src="images/bg.png" class="img-responsive bulat" alt="Image">
+        <!-- <div class="row partner right"> -->
+        <div class="container">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner">
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 samping">
+                <img src="images/bg.png" class=" bulat shadow1" alt="Image">
             </div>
-            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 fontb">
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 fontb">
+                <a href="#">ABIMANYU</a><br>
+                CEO<br>
+                abimanyu@indobit.com<br>
+                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
+                </span> &nbsp
+                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
+                </span> &nbsp
+                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
+                </span>
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 samping">
+                <img src="images/bg.png" class="bulat" alt="Image">
+            </div>
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 fontb">
                 <a href="#">ABIMANYU</a><br>
                 CEO<br>
                 abimanyu@indobit.com<br>
@@ -190,21 +76,10 @@
                 <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
                 <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
             </div>
-            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 samping">
                 <img src="images/bg.png" class="img-responsive bulat" alt="Image">
             </div>
-            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 fontb">
-                <a href="#">ABIMANYU</a><br>
-                CEO<br>
-                abimanyu@indobit.com<br>
-                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
-                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
-                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
-            </div>
-            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
-                <img src="images/bg.png" class="img-responsive bulat" alt="Image">
-            </div>
-            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 fontb">
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 fontb">
                 <a href="#">ABIMANYU</a><br>
                 CEO<br>
                 abimanyu@indobit.com<br>
@@ -213,11 +88,11 @@
                 <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
             </div>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner right">
-            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner">
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 samping">
                 <img src="images/bg.png" class="img-responsive bulat" alt="Image">
             </div>
-            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 fontb">
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 fontb">
                 <a href="#">ABIMANYU</a><br>
                 CEO<br>
                 abimanyu@indobit.com<br>
@@ -225,10 +100,10 @@
                 <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
                 <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
             </div>
-            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 samping">
                 <img src="images/bg.png" class="img-responsive bulat" alt="Image">
             </div>
-            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 fontb">
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 fontb">
                 <a href="#">ABIMANYU</a><br>
                 CEO<br>
                 abimanyu@indobit.com<br>
@@ -236,10 +111,10 @@
                 <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
                 <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
             </div>
-            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2">
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 samping">
                 <img src="images/bg.png" class="img-responsive bulat" alt="Image">
             </div>
-            <div class="col-xs-2 col-sm-2 col-md-2 col-lg-2 fontb">
+            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 fontb">
                 <a href="#">ABIMANYU</a><br>
                 CEO<br>
                 abimanyu@indobit.com<br>
@@ -247,6 +122,7 @@
                 <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
                 <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
             </div>
+        </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background background3">
             <center><div class="font">
@@ -316,7 +192,7 @@
                 <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
             </div>
         </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background4 font1">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background5 font1">
             <center>Copyright©2015 Indobit Technologies</center>
         </div>
         <!-- jQuery -->
@@ -324,9 +200,9 @@
         <script src="assets/js/vendor/jquery.min.js"></script>
         <script src="http://localhost/cdn/bootstrap/3.2.0/js/bootstrap.min.js" type="text/javascript"></script>
         <script type="text/javascript">
-            $(document).ready(function() {
-                $('[data-toggle="tooltip"]').tooltip();
-            });
+        $(document).ready(function() {
+        $('[data-toggle="tooltip"]').tooltip();
+        });
         </script>
         <!-- Bootstrap JavaScript -->
     </body>
