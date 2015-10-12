@@ -45,7 +45,7 @@
             <center>
             <img src="images/assets/support.png" class="img-responsive user-pass" alt="Image">
             </center>
-            <hr>
+
             <legend></legend>
         </div>
         <!-- <div class="row partner right"> -->

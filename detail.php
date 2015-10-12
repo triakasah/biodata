@@ -50,17 +50,11 @@
             <center>
             <img src="images/assets/profile.png" class="img-responsive user-pass" alt="Image">
             </center>
-            <hr>
+
             <legend></legend>
         </div>
         <div class="container">
             <table class="table table-hover">
-                <thead>
-                    <tr>
-                        <th>BIODATA</th>
-                    </tr>
-                </thead>
-                <tbody>
                     <tr>
                         <td>Nama Lengkap</td>
                         <td>Muhammad Solihin</td>

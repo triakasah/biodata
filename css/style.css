@@ -163,3 +163,7 @@
 .widthb{
         width: 100%;
 }
+body{
+    background:  url('../images/geometry2.png') 0 0 repeat;
+    background-attachment: fixed;
+}
