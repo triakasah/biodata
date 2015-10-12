@@ -40,7 +40,7 @@
                 </form>
             </div>
         </nav>
-        <img src="images/bener.jpg" class="img-responsive widthb" alt="Image">
+        <img src="images/bener.jpg" class=" widthb" alt="Image">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
             <center>
             <img src="images/assets/support.png" class="img-responsive user-pass" alt="Image">
@@ -52,7 +52,7 @@
         <div class="container">
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner">
             <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 samping">
-                <img src="images/bg.png" class=" bulat shadow1" alt="Image">
+                <img src="images/bg.png" class="bulat" alt="Image">
             </div>
             <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 fontb">
                 <a href="#">ABIMANYU</a><br>
