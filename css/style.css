@@ -28,6 +28,7 @@
 .background4{
          /*background-image: url(../images/background2.png);*/
          background-image: url(../images/bg-profil.png);
+         /*background-color:  #dcd7d7;*/
          /*background-color: #bdc3c7;*/
          padding-bottom: 30px;
          padding-top: 30px;
@@ -54,8 +55,7 @@
         border-style: dashed !important;
 }
 .bulat{
-        border-radius: 100% !important;
-        height: 110px;
+        width: 90%;
         }
 .fb{
         background-image: url('../images/assets/fb.png');

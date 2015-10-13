@@ -15,6 +15,7 @@
         <script src="https:localhost//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
         <script src="https:localhost//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
+        <link rel="shortcut icon" href="http://pub.indobit.com/files/source/Official%20Logo/favicon-indobit.png">
     </head>
     <body>
         <nav class="navbar navbar-default bener border" role="navigation">
@@ -50,7 +51,114 @@
         </div>
         <!-- <div class="row partner right"> -->
         <div class="container">
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner">
+        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="margin-top:70px">
+
+        </div>
+        <div style='margin-bottom:50px' class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <img src="images/bg.png" class="img-responsive img-circle bulat" alt="Image">
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <a href="#">ABIMANYU</a><br>
+                        CEO<br>
+                        abimanyu@indobit.com<br>
+                        <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
+                        </span> &nbsp
+                        <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
+                        </span> &nbsp
+                        <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
+                        </span>
+                    </div>
+        </div>
+
+        <div style='margin-bottom:50px' class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <img src="images/bg.png" class="img-responsive img-circle bulat" alt="Image">
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <a href="#">ABIMANYU</a><br>
+                        CEO<br>
+                        abimanyu@indobit.com<br>
+                        <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
+                        </span> &nbsp
+                        <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
+                        </span> &nbsp
+                        <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
+                        </span>
+                    </div>
+        </div>
+
+        <div style='margin-bottom:50px' class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <img src="images/bg.png" class="img-responsive img-circle bulat" alt="Image">
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <a href="#">ABIMANYU</a><br>
+                        CEO<br>
+                        abimanyu@indobit.com<br>
+                        <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
+                        </span> &nbsp
+                        <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
+                        </span> &nbsp
+                        <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
+                        </span>
+                    </div>
+        </div>
+
+        <div style='margin-bottom:50px' class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <img src="images/bg.png" class="img-responsive img-circle bulat" alt="Image">
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <a href="#">ABIMANYU</a><br>
+                        CEO<br>
+                        abimanyu@indobit.com<br>
+                        <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
+                        </span> &nbsp
+                        <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
+                        </span> &nbsp
+                        <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
+                        </span>
+                    </div>
+        </div>
+
+        <div style='margin-bottom:50px' class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <img src="images/bg.png" class="img-responsive img-circle bulat" alt="Image">
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <a href="#">ABIMANYU</a><br>
+                        CEO<br>
+                        abimanyu@indobit.com<br>
+                        <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
+                        </span> &nbsp
+                        <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
+                        </span> &nbsp
+                        <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
+                        </span>
+                    </div>
+        </div>
+
+        <div style='margin-bottom:50px' class="col-xs-12 col-sm-6 col-md-4 col-lg-4">
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <img src="images/bg.png" class="img-responsive img-circle bulat" alt="Image">
+                    </div>
+                    <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
+                        <a href="#">ABIMANYU</a><br>
+                        CEO<br>
+                        abimanyu@indobit.com<br>
+                        <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
+                        </span> &nbsp
+                        <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
+                        </span> &nbsp
+                        <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
+                        </span>
+                    </div>
+        </div>
+
+         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="margin-bottom:70px">
+         </div>
+            <!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner">
             <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 samping">
                 <img src="images/bg.png" class="bulat" alt="Image">
             </div>
@@ -63,66 +171,7 @@
                 <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
                 </span> &nbsp
                 <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
-                </span>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 samping">
-                <img src="images/bg.png" class="bulat" alt="Image">
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 fontb">
-                <a href="#">ABIMANYU</a><br>
-                CEO<br>
-                abimanyu@indobit.com<br>
-                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
-                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
-                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 samping">
-                <img src="images/bg.png" class="img-responsive bulat" alt="Image">
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 fontb">
-                <a href="#">ABIMANYU</a><br>
-                CEO<br>
-                abimanyu@indobit.com<br>
-                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
-                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
-                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
-            </div>
-        </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner">
-            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 samping">
-                <img src="images/bg.png" class="img-responsive bulat" alt="Image">
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 fontb">
-                <a href="#">ABIMANYU</a><br>
-                CEO<br>
-                abimanyu@indobit.com<br>
-                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
-                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
-                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 samping">
-                <img src="images/bg.png" class="img-responsive bulat" alt="Image">
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 fontb">
-                <a href="#">ABIMANYU</a><br>
-                CEO<br>
-                abimanyu@indobit.com<br>
-                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
-                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
-                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 samping">
-                <img src="images/bg.png" class="img-responsive bulat" alt="Image">
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-2 col-lg-2 fontb">
-                <a href="#">ABIMANYU</a><br>
-                CEO<br>
-                abimanyu@indobit.com<br>
-                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
-                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
-                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
-            </div>
-        </div>
+                </span> -->
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background background3">
             <center><div class="font">
