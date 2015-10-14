@@ -40,95 +40,93 @@
                     <a href="#">ABIMANYU</a><br>
                     CEO<br>
                     <a href="mailto:abimanyu@indobit.com">abimanyu@indobit.com</a><br>
-                    <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
-                    </span> &nbsp
-                    <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
-                    </span> &nbsp
-                    <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
-                    </span>
+                    <a href="https://www.linkedin.com"><span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
+                    </span></a> &nbsp
+                    <a href="https://www.skype.com"><span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
+                    </span></a> &nbsp
+                    <a href="https://www.facebook.com"><span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
+                    </span></a>
                 </div>
             </div>
-            <div  class="col-xs-12 col-sm-6 col-md-4 col-lg-4 margin-bottom">
+             <div  class="col-xs-12 col-sm-6 col-md-4 col-lg-4 margin-bottom">
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                     <img src="images/bg.png" class="img-responsive img-circle bulat" alt="Image">
                 </div>
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 font1">
                     <a href="#">ABIMANYU</a><br>
                     CEO<br>
-                    <a href="mailto:abimanyu@indobit.com'">abimanyu@indobit.com</a><br>
-                    <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
-                    </span> &nbsp
-                    <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
-                    </span> &nbsp
-                    <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
-                    </span>
+                    <a href="mailto:abimanyu@indobit.com">abimanyu@indobit.com</a><br>
+                    <a href="https://www.linkedin.com"><span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
+                    </span></a> &nbsp
+                    <a href="https://www.skype.com"><span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
+                    </span></a> &nbsp
+                    <a href="https://www.facebook.com"><span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
+                    </span></a>
                 </div>
             </div>
-            <div  class="col-xs-12 col-sm-6 col-md-4 col-lg-4 margin-bottom">
+             <div  class="col-xs-12 col-sm-6 col-md-4 col-lg-4 margin-bottom">
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                     <img src="images/bg.png" class="img-responsive img-circle bulat" alt="Image">
                 </div>
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 font1">
                     <a href="#">ABIMANYU</a><br>
                     CEO<br>
-                    <a href="mailto:abimanyu@indobit.com'">abimanyu@indobit.com</a><br>
-                    <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
-                    </span> &nbsp
-                    <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
-                    </span> &nbsp
-                    <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
-                    </span>
+                    <a href="mailto:abimanyu@indobit.com">abimanyu@indobit.com</a><br>
+                    <a href="https://www.linkedin.com"><span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
+                    </span></a> &nbsp
+                    <a href="https://www.skype.com"><span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
+                    </span></a> &nbsp
+                    <a href="https://www.facebook.com"><span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
+                    </span></a>
                 </div>
             </div>
-            <div  class="col-xs-12 col-sm-6 col-md-4 col-lg-4 margin-bottom">
+             <div  class="col-xs-12 col-sm-6 col-md-4 col-lg-4 margin-bottom">
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                     <img src="images/bg.png" class="img-responsive img-circle bulat" alt="Image">
                 </div>
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 font1">
                     <a href="#">ABIMANYU</a><br>
                     CEO<br>
-                    <a href="mailto:abimanyu@indobit.com'">abimanyu@indobit.com</a><br>
-                    <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
-                    </span> &nbsp
-                    <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
-                    </span> &nbsp
-                    <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
-                    </span>
+                    <a href="mailto:abimanyu@indobit.com">abimanyu@indobit.com</a><br>
+                    <a href="https://www.linkedin.com"><span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
+                    </span></a> &nbsp
+                    <a href="https://www.skype.com"><span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
+                    </span></a> &nbsp
+                    <a href="https://www.facebook.com"><span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
+                    </span></a>
                 </div>
             </div>
-            <div  class="col-xs-12 col-sm-6 col-md-4 col-lg-4 margin-bottom">
+             <div  class="col-xs-12 col-sm-6 col-md-4 col-lg-4 margin-bottom">
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                     <img src="images/bg.png" class="img-responsive img-circle bulat" alt="Image">
                 </div>
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 font1">
                     <a href="#">ABIMANYU</a><br>
                     CEO<br>
-                    <a href="mailto:abimanyu@indobit.com'">abimanyu@indobit.com</a><br>
-                    <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
-                    </span> &nbsp
-                    <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
-                    </span> &nbsp
-                    <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
-                    </span>
+                    <a href="mailto:abimanyu@indobit.com">abimanyu@indobit.com</a><br>
+                    <a href="https://www.linkedin.com"><span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
+                    </span></a> &nbsp
+                    <a href="https://www.skype.com"><span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
+                    </span></a> &nbsp
+                    <a href="https://www.facebook.com"><span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
+                    </span></a>
                 </div>
             </div>
-            <div  class="col-xs-12 col-sm-6 col-md-4 col-lg-4 margin-bottom">
+             <div  class="col-xs-12 col-sm-6 col-md-4 col-lg-4 margin-bottom">
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6">
                     <img src="images/bg.png" class="img-responsive img-circle bulat" alt="Image">
                 </div>
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 font1">
                     <a href="#">ABIMANYU</a><br>
                     CEO<br>
-                    <a href="mailto:abimanyu@indobit.com'">abimanyu@indobit.com</a><br>
-                    <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
-                    </span> &nbsp
-                    <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
-                    </span> &nbsp
-                    <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
-                    </span>
+                    <a href="mailto:abimanyu@indobit.com">abimanyu@indobit.com</a><br>
+                    <a href="https://www.linkedin.com"><span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
+                    </span></a> &nbsp
+                    <a href="https://www.skype.com"><span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
+                    </span></a> &nbsp
+                    <a href="https://www.facebook.com"><span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image">
+                    </span></a>
                 </div>
-            </div>
-            <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12" style="margin-bottom:70px">
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background background3">
@@ -172,67 +170,11 @@
             <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
                 Email : email@indobit.com<br>
                 Telepon : +62 21 2358 4400 atau +62 21 2358 4401 <br><br>
-                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
-                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
-                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
+                <a href="https://www.linkedin.com"><span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span></a> &nbsp
+                <a href="https://www.skype.com"><span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span></a> &nbsp
+                <a href="https://www.facebook.com"><span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span></a>
             </div>
         </div>
-        <!-- <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font3">
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
-                Head Office
-            </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
-                Partner
-            </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
-                Media
-            </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
-                Service
-            </div>
-        </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font2">
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
-                Menara BCA, Grand Indonesia Lt. 50 <br>
-                JL. MH Thamrin No. 1 Central Jakarta, 10310
-            </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
-                Vhost.Id <br>
-                JFX Journal<br>
-                Indobit Foundationb<br>
-                Forum Trader Indonesiab<br>
-                Exchanger.I<br>
-                Indobit Academy
-            </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
-                JFX JOURNAL<br>
-                FORUM TRADER INDONESIA
-            </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
-                VPS Hosting<br>
-                Web Developement<br>
-                Web Hosting
-            </div>
-        </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font3">
-            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 top-bottom2">
-                Contact Us
-            </div>
-            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 top-bottom2">
-                Follow Us
-            </div>
-        </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font2">
-            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 padding">
-                Email : email@indobit.com<br>
-                Telepon : +62 21 2358 4400 atau +62 21 2358 4401
-            </div>
-            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 top-bottom2">
-                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
-                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
-                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
-            </div>
-        </div> -->
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background5 font1">
             <center>Copyright©2015 Indobit Technologies</center>
         </div>

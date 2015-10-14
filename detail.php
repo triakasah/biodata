@@ -120,70 +120,48 @@
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background background3">
             <center><div class="font">
-                O u r  &nbsp P a r t n e r
+                P a r t n e r
             </div></center>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 partner">
+        <center>
             <img src="images/assets/academy.png" class="tinggi" alt="Image">
             <img src="images/assets/exchanger-id.png" class="tinggi" alt="Image">
             <img src="images/assets/fti.png" class="tinggi" alt="Image">
             <img src="images/assets/ifon.jpg" class="tinggi" alt="Image">
             <img src="images/assets/jfxjournal-logo.png" class="tinggi" alt="Image">
+        </center>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font3">
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
-                Head Office
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 top-bottom">
+                T e n t a n g
             </div>
             <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
-                Partner
+                H e a d &nbsp O f f i c e
             </div>
             <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
-                Media
-            </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
-                Service
+                C o n t a c t &nbsp U s
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font2">
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
+            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 top-bottom padding">
+                Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod
+                tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam,
+                quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo
+                consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse
+                cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non
+                proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+            </div>
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
                 Menara BCA, Grand Indonesia Lt. 50 <br>
                 JL. MH Thamrin No. 1 Central Jakarta, 10310
             </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
-                Vhost.Id <br>
-                JFX Journal<br>
-                Indobit Foundationb<br>
-                Forum Trader Indonesiab<br>
-                Exchanger.I<br>
-                Indobit Academy
-            </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
-                JFX JOURNAL<br>
-                FORUM TRADER INDONESIA
-            </div>
-            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 padding">
-                VPS Hosting<br>
-                Web Developement<br>
-                Web Hosting
-            </div>
-        </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font3">
-            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 top-bottom2">
-                Contact Us
-            </div>
-            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 top-bottom2">
-                Follow Us
-            </div>
-        </div>
-        <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background2 font2">
-            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 padding">
+            <div class="col-xs-3 col-sm-3 col-md-3 col-lg-3 top-bottom">
                 Email : email@indobit.com<br>
-                Telepon : +62 21 2358 4400 atau +62 21 2358 4401
-            </div>
-            <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 top-bottom2">
-                <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span> &nbsp
-                <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span> &nbsp
-                <span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span>
+                Telepon : +62 21 2358 4400 atau +62 21 2358 4401 <br><br>
+                <a href="https://www.linkedin.com"><span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin"></span></a> &nbsp
+                <a href="https://www.skype.com"><span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image"></span></a> &nbsp
+                <a href="https://www.facebook.com"><span class="icon fb" data-toggle="tooltip" data-placement="bottom" title="Facebook" alt="Image"></span></a>
             </div>
         </div>
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background5 font1">
@@ -198,6 +176,5 @@
         $('[data-toggle="tooltip"]').tooltip();
         });
         </script>
-        <!-- Bootstrap JavaScript -->
     </body>
 </html>
