@@ -39,7 +39,7 @@
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 font1">
                     <a href="#">ABIMANYU</a><br>
                     CEO<br>
-                    abimanyu@indobit.com<br>
+                    <a href="mailto:abimanyu@indobit.com">abimanyu@indobit.com</a><br>
                     <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
                     </span> &nbsp
                     <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
@@ -55,7 +55,7 @@
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 font1">
                     <a href="#">ABIMANYU</a><br>
                     CEO<br>
-                    abimanyu@indobit.com<br>
+                    <a href="mailto:abimanyu@indobit.com'">abimanyu@indobit.com</a><br>
                     <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
                     </span> &nbsp
                     <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
@@ -71,7 +71,7 @@
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 font1">
                     <a href="#">ABIMANYU</a><br>
                     CEO<br>
-                    abimanyu@indobit.com<br>
+                    <a href="mailto:abimanyu@indobit.com'">abimanyu@indobit.com</a><br>
                     <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
                     </span> &nbsp
                     <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
@@ -87,7 +87,7 @@
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 font1">
                     <a href="#">ABIMANYU</a><br>
                     CEO<br>
-                    abimanyu@indobit.com<br>
+                    <a href="mailto:abimanyu@indobit.com'">abimanyu@indobit.com</a><br>
                     <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
                     </span> &nbsp
                     <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
@@ -103,7 +103,7 @@
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 font1">
                     <a href="#">ABIMANYU</a><br>
                     CEO<br>
-                    abimanyu@indobit.com<br>
+                    <a href="mailto:abimanyu@indobit.com'">abimanyu@indobit.com</a><br>
                     <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
                     </span> &nbsp
                     <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">
@@ -119,7 +119,7 @@
                 <div class="col-xs-6 col-sm-6 col-md-6 col-lg-6 font1">
                     <a href="#">ABIMANYU</a><br>
                     CEO<br>
-                    abimanyu@indobit.com<br>
+                    <a href="mailto:abimanyu@indobit.com'">abimanyu@indobit.com</a><br>
                     <span class="icon linkedin" data-toggle="tooltip" data-placement="bottom" title="Linkedin">
                     </span> &nbsp
                     <span class="icon skype" data-toggle="tooltip" data-placement="bottom" title="Skype" alt="Image">

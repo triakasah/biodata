@@ -9,6 +9,7 @@
         <link href="assets/css/vendor/bootstrap.min.css" rel="stylesheet">
         <link href="assets/css/flat-ui-pro.min.css" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="css/style.css">
+        <link rel="shortcut icon" href="http://pub.indobit.com/files/source/Official%20Logo/favicon-indobit.png">
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:localhost// -->
         <!--[if lt IE 9]>
