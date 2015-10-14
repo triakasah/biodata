@@ -178,7 +178,6 @@
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background5 font1">
             <center>Copyright©2015 Indobit Technologies</center>
         </div>
-        <!-- jQuery -->
         <script src="assets/js/flat-ui-pro.min.js"></script>
         <script src="assets/js/vendor/jquery.min.js"></script>
         <script src="http://localhost/cdn/bootstrap/3.2.0/js/bootstrap.min.js" type="text/javascript"></script>

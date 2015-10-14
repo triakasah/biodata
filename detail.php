@@ -10,12 +10,6 @@
         <link href="assets/css/flat-ui-pro.min.css" rel="stylesheet">
         <link rel="stylesheet" type="text/css" href="css/style.css">
         <link rel="shortcut icon" href="http://pub.indobit.com/files/source/Official%20Logo/favicon-indobit.png">
-        <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
-        <!-- WARNING: Respond.js doesn't work if you view the page via file:localhost// -->
-        <!--[if lt IE 9]>
-        <script src="https:localhost//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-        <script src="https:localhost//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-        <![endif]-->
     </head>
     <body>
         <nav class="navbar navbar-default bener border" role="navigation">
@@ -28,21 +22,8 @@
                 </button>
                 <img class="gambar img-responsive" height="50" src="images/logo-header.png" alt="Image">
             </div>
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <!-- <div class="collapse navbar-collapse navbar-ex1-collapse border">
-                <form class="navbar-form navbar-right" role="search">
-                    <div class="form-group">
-                        <input type="text" class="form-control user-pass border" placeholder="username">
-                    </div>
-                    <div class="form-group">
-                        <input type="text" class="form-control user-pass border" placeholder="password">
-                    </div>
-                    <button class="btn btn-warning border">Submit</button>
-                </form>
-            </div> -->
         </nav>
-        <!-- <img src="images/bener.jpg" class="img-responsive" alt="Image"> -->
-            <div class="background4">
+             <div class="background4">
                 <center>
                 <img src="images/bg.png" class="height img-circle img-responsive" alt="Image">
                 </center>
@@ -167,7 +148,6 @@
         <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12 background5 font1">
             <center>Copyright©2015 Indobit Technologies</center>
         </div>
-        <!-- jQuery -->
         <script src="assets/js/flat-ui-pro.min.js"></script>
         <script src="assets/js/vendor/jquery.min.js"></script>
         <script src="http://localhost/cdn/bootstrap/3.2.0/js/bootstrap.min.js" type="text/javascript"></script>
